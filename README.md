@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/221mateus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
+<a href="https://www.linkedin.com/in/mateus-rufino-de-souza-4b738825a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a> 
 </div> 
  
 ### Main skills:
